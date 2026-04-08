@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozan_\\Desktop\\Dev\\AI\\udemy .NET\\1- ML.NET\\MLSampleApp\\SentimentAnalysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71768604-3739-2788-47C2-E921FB9B8775}|..\\TaxiFarePrediction\\SentimentRazor\\SentimentRazor.csproj|c:\\users\\ozan_\\desktop\\dev\\ai\\udemy .net\\1- ml.net\\mlsampleapp\\taxifareprediction\\sentimentrazor\\wikipedia-detox-250-line-data.tsv.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wikipedia-detox-250-line-data.tsv.txt",
+              "DocumentMoniker": "C:\\Users\\ozan_\\Desktop\\Dev\\AI\\udemy .NET\\1- ML.NET\\MLSampleApp\\TaxiFarePrediction\\SentimentRazor\\wikipedia-detox-250-line-data.tsv.txt",
+              "RelativeDocumentMoniker": "..\\TaxiFarePrediction\\SentimentRazor\\wikipedia-detox-250-line-data.tsv.txt",
+              "ToolTip": "C:\\Users\\ozan_\\Desktop\\Dev\\AI\\udemy .NET\\1- ML.NET\\MLSampleApp\\TaxiFarePrediction\\SentimentRazor\\wikipedia-detox-250-line-data.tsv.txt",
+              "RelativeToolTip": "..\\TaxiFarePrediction\\SentimentRazor\\wikipedia-detox-250-line-data.tsv.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-08T09:26:05.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
